@@ -1,13 +1,5 @@
 name: luacheck
-on: 
-  push:
-    paths:
-      - '**.lua'
-      - '.github/workflows/**.yml'
-  pull_request:
-    paths:
-      - '**.lua'
-      - '.github/workflows/**.yml'
+on: [push, pull_request]
 jobs:
   luacheck:
     runs-on: ubuntu-latest
