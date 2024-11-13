@@ -1,0 +1,49 @@
+# textdomain: technic_worldgen
+
+# template.txt
+# technic_worldgen translation template
+
+###crafts.lua
+Uranium Lump=Кусок урана
+Uranium Ingot=Слиток урана
+Chromium Lump=Кусок хрома
+Chromium Ingot=Слиток хрома
+Zinc Lump=Кусок цинка
+Zinc Ingot=Слиток цинка
+Brass Ingot=Латунный слиток
+Wrought Iron Ingot=Железный слиток
+Cast Iron Ingot=Чугунный слиток
+Carbon Steel Ingot=Слиток углеродистой стали
+Stainless Steel Ingot=Слиток нержавеющей стали
+Iron=Железо
+
+###nodes.lua
+Uranium Ore=Урановая руда
+Chromium Ore=Хромовая руда
+Zinc Ore=Цинковая руда
+Granite=Гранит
+Marble=Мрамор
+Marble Bricks=Мраморные кирпичи
+Uranium Block=Блок урана
+Chromium Block=Блок хрома
+Zinc Block=Блок цинка
+Wrought Iron Block=Железный блок
+Cast Iron Block=Чугунный блок
+Carbon Steel Block=Блок из углеродистой стали
+Stainless Steel Block=Блок из нержавеющей стали
+Brass Block=Латунный блок
+Wrought Iron=Кованое железо
+Blast-resistant Concrete Block=Взрывоустойчивый бетонный блок
+
+###rubber.lua
+Rubber Tree Sapling=Саженец резинового дерева
+Rubber Tree=Резиновое дерево
+Lead Lump=Кусок свинца
+Lead Ingot=Свинцовый слиток
+Sulfur Lump=Кусок серы
+Rubber Tree Leaves=Листья резинового дерева
+Lead Ore=Свинцовая руда
+Sulfur Ore=Серная руда
+Granite Bricks=Гранитные кирпичи
+Lead Block=Свинцовый блок
+Sulfur Block=Серный блок
